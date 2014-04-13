@@ -12,5 +12,5 @@ Then under System Variables look for the path variable and click edit
 Dont put space between ; in the path variable 
 ;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\Git\cmd
 3) Watch the following youtube videos:
-https://www.youtube.com/watch?v=0fKg7e37bQE
-https://www.youtube.com/playlist?list=PL1F56EA413018EEE1
+(a) https://www.youtube.com/watch?v=0fKg7e37bQE
+(b) https://www.youtube.com/playlist?list=PL1F56EA413018EEE1
