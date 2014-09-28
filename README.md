@@ -14,3 +14,8 @@ Dont put space between ; in the path variable
 3) Watch the following youtube videos:
 (a) https://www.youtube.com/watch?v=0fKg7e37bQE
 (b) https://www.youtube.com/playlist?list=PL1F56EA413018EEE1
+
+
+BEST OF BEST WEBSITES TO LEARN GIT  --UPDATE--
+1) githowto.com
+2) Pluralsight -> Git Fundamentals
