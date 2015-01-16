@@ -2,6 +2,8 @@ Learning-GitHub
 ===============
 Follow the instructions below to learn the github repository
 
+BEST WEBSITE TO LEARN GIT: http://pcottle.github.io/learnGitBranching/
+
 1) In the search bar write "github for windows"/"github for mac" and install it
 2) VERY IMP: After installing, add the environment variable to the Windows environment variable so that the cmd of windows understands the github commands
 Open Windows Environment Variables/Path Window
