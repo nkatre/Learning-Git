@@ -1,4 +1,4 @@
-Learning-GitHub
+Learning-Git
 ===============
 Follow the instructions below to learn the github repository
 
